@@ -2,6 +2,7 @@
 Scripts associated with the manuscript "Genome-scale metabolic modelling of lifestyle changes in Rhizobium leguminosarum" by C. C. M. Schulte, V. K. Ramachandran, A. Papachristodoulou and P. S. Poole
 
 All MATLAB scripts were run with the COBRA Toolbox v.3.0 ([Heirendt *et al.*, 2019](https://www.nature.com/articles/s41596-018-0098-2)).
+The Python implementation of RIPTiDe was used as described in [Jenior *et al.*, 2020](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007099).
 
 
 ```
