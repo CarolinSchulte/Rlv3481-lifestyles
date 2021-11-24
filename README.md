@@ -54,5 +54,5 @@ The Python implementation of RIPTiDe was used as described in [Jenior *et al.*, 
 | |- reporterMets_pea            # Reporter metabolites for pea rhizosphere
 | |- reporterMets_alfalfa        # Reporter metabolites for alfalfa rhizosphere
 | |- reporterMets_sugarbeet      # Reporter metabolites for sugar beet rhizosphere
-| |- EssentialityPredictions     # Comparison of experimental and *in silico* gene essentiality
+| |- EssentialityPredictions     # Comparison of experimental and in silico gene essentiality
 ```
