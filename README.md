@@ -11,6 +11,7 @@ The Python implementation of RIPTiDe was used as described in [Jenior *et al.*, 
 |- iCS1224.mat                   # MATLAB structure of iCS1224, a metabolic model for Rhizobium leguminosarum bv. viciae 3841 
 |- iCS1224.xlsx                  # Excel file for iCS1224, a metabolic model for Rhizobium leguminosarum
 |                                bv. viciae 3841 
+|- MemoteReport.pdf              # Memote report for iCS1224
 |
 |- Scripts/                     
 |
@@ -53,5 +54,5 @@ The Python implementation of RIPTiDe was used as described in [Jenior *et al.*, 
 | |- reporterMets_pea            # Reporter metabolites for pea rhizosphere
 | |- reporterMets_alfalfa        # Reporter metabolites for alfalfa rhizosphere
 | |- reporterMets_sugarbeet      # Reporter metabolites for sugar beet rhizosphere
-|
+| |- EssentialityPredictions     # Comparison of experimental and *in silico* gene essentiality
 ```
